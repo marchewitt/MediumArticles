@@ -1,1 +1,2 @@
-MediumArticles
+## Medium Article code repo
+This repo does not function 100% out of the box if downloaded. It's missing some premium licensed assets for some project examples. But leaving public for code side to be viewed.
